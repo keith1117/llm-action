@@ -1,14 +1,3 @@
-<p> 
-<a href="https://github.com/liguodongiot/llm-action/stargazers">
-<img src="https://img.shields.io/github/stars/liguodongiot/llm-action?style=social" > </a>
-<a href="https://github.com/liguodongiot/llm-action/blob/main/pic/wx.jpg"> <img src="https://img.shields.io/badge/吃果冻不吐果冻皮-1AAD19.svg?style=plastic&logo=wechat&logoColor=white" > </a>
-<a href="https://www.zhihu.com/people/liguodong-iot"> <img src="https://img.shields.io/badge/吃果冻不吐果冻皮-0079FF.svg?style=plastic&logo=zhihu&logoColor=white"> </a>
-<a href="https://juejin.cn/user/3642056016410728"> <img src="https://img.shields.io/badge/掘金-吃果冻不吐果冻皮-000099.svg?style=plastic&logo=juejin"> </a>
-<a href="https://liguodong.blog.csdn.net/"> <img src="https://img.shields.io/badge/CSDN-吃果冻不吐果冻皮-6B238E.svg"> </a>
-<a href="https://www.lab4ai.cn/register?agentID=user-PqCML6LJZO"> <img src="https://img.shields.io/badge/Lab4AI-大模型实验室-1E90FF.svg"> </a>
-</p> 
-
-
 ## 目录
 
 - :snail: [LLM训练](#llm训练)
@@ -643,37 +632,6 @@ AI编译器是指将机器学习算法从开发阶段，通过变换和优化算
 - [Docker Dockerfile 指令大全](https://juejin.cn/post/7016595442062327844)
 - [Kubernetes 常用命令大全](https://juejin.cn/post/7031201391553019911)
 - [集群环境 GPU 管理和监控工具 DCGM 常用命令大全](https://github.com/liguodongiot/llm-action/blob/main/docs/llm-base/dcgmi.md)
-
-## LLM学习交流群
-
-我创建了大模型相关的学习交流群，供大家一起学习交流大模型相关的最新技术，目前已有5个群，每个群都有上百人的规模，**可加我微信进群**（加微信请备注来意，如：进大模型学习交流群+GitHub，进大模型推理加速交流群+GitHub、进大模型应用开发交流群+GitHub、进大模型校招交流群+GitHub等）。**一定要备注哟，否则不予通过**。
-
-PS：**成都有个本地大模型交流群，想进可以另外单独备注下。**
-
-<p align="center">
-  <img src="https://github.com/liguodongiot/llm-action/blob/main/pic/wx.jpg">
-</p>
-
-## 微信公众号
-
-微信公众号：**吃果冻不吐果冻皮**，该公众号主要分享AI工程化（大模型、MLOps等）相关实践经验，免费电子书籍、论文等。
-
-<p align="center">
-  <img src="https://github.com/liguodongiot/llm-action/blob/main/pic/wx-gzh.png" >
-</p>
-
-**[⬆ 一键返回目录](#目录)**
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=liguodongiot/llm-action&type=Date)](https://star-history.com/#liguodongiot/llm-action&Date)
-
-
-## AI工程化课程推荐
-
-如今人工智能的发展可谓是如火如荼，ChatGPT、Sora、文心一言等AI大模型如雨后春笋般纷纷涌现。AI大模型优势在于它能处理复杂性问题；因此，越来越多的企业需要具备**AI算法设计、AI应用开发、模型推理加速及模型压缩**等AI工程化落地的能力。这就导致行业内的工程师，需要快速提升自身的技术栈，以便于在行业内站稳脚跟。我在[llm-resource](https://github.com/liguodongiot/llm-resource) 和 [ai-system](https://github.com/liguodongiot/ai-system)梳理了一些大模型和AI工程化相关资料。
-
-
 
 
 
